@@ -1,0 +1,7 @@
+{
+  "name": "segev-test-dependent",
+  "version": "1.0.0",
+  "dependencies": {
+    "@segevmalool/segev-test-package": "^0.0.12"
+  }
+}
